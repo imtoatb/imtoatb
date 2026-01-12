@@ -1,51 +1,76 @@
 # 👩‍💻 Agathe's GitHub Profile
 
-Welcome to my corner of GitHub! 😄
+Engineering student at **EFREI (I1)**, seeking a **work-study position (alternance) in Data, Machine Learning, Big Data or Analytics starting in September**.
 
-I'm **Agathe**, a passionate second-year student at **EFREI** in the *Integrated International Prep Program* 🌍. I’m thrilled to be on my journey into the world of technology, and this space showcases the projects I’m working on along the way.
+This GitHub profile contains my **academic and personal projects**, mainly focused on **data analysis, programming, and algorithmic problem-solving**.
+
+
+---
 
 ## 🎓 About Me
 
-I’m currently diving deep into computer science and data analysis, and I’m loving every bit of it! From coding to analyzing data trends, I am always eager to learn and improve. 🚀
+I am currently in my **first year of the engineering cycle (I1)** at EFREI, after completing the Integrated International Prep Program.
 
-### 🌐 My Studies:
-- **2nd Year of Integrated International Prep Program** at **EFREI**  
-  (A top French engineering school specializing in IT and data-driven solutions)
-  
-### 📚 My Interests:
-- Data Analysis 📊
-- Algorithms & Software Development 💻
-- Problem-solving and optimization 🧩
+My training combines **computer science, mathematics, and data analysis**, and I am particularly interested in roles involving:
+- data exploration and analysis,
+- model development and evaluation,
+- software and data-oriented problem-solving.
 
-## 🧑‍💻 Skills & Technologies
+I am looking for an **alternance in a private-sector company**, preferably in a **hybrid setup around South Paris (Cachan - 94 and nearby areas)**.
 
-Here’s a list of the technologies I work with and love:
+---
+## My Projects
 
-- **Programming Languages**:
-  - Python 🐍
-  - C 💻
-  - Java ☕
-  - HTML 🌐
-  - CSS 🎨
-  - SQL 🗄️
-  - Linux 🐧
+### SOPK Detector (ML - Python)
 
-- **Special Interests**:
-  - Data Analysis 🔍
-  - Machine Learning 🤖
-  - Web Development 🌐
-  
-I’m particularly passionate about **Data Analysis** and its potential to unlock meaningful insights from complex datasets. I have been developing my skills in this field and exploring how we can leverage data to make informed decisions. 📊💡
+### Politic'Eye
 
-## 🌟 Projects
+###
 
-I’m constantly working on exciting projects, both for school and personal development. Feel free to check out my repositories to see what I’ve been up to lately! 🔥
+---
+
+## 🧠 Technical Skills
+
+### Programming Languages
+- Python  
+- C  
+- Java  
+- SQL
+- HTML/CSS
+- Vue.js
+- Node.js
+- JSON / CSV data formats
+
+### Data & Analytics
+- Data analysis with Python (pandas, matplotlib, numpy, seaborn, sklearn)
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Introduction to Machine Learning concepts
+
+### Tools & Systems
+- Git / GitHub  
+- Linux  
+- VS Code / IDEs
+- Virtual environments (VMWare)
+
+---
+
+## 🎯 Career Objective
+
+My objective is to join a **data-oriented team** where I can:
+- apply my academic knowledge to real-world problems,
+- develop strong technical and professional skills,
+- progressively gain autonomy in data-related roles.
+
+I am motivated, rigorous, and eager to learn, and I see alternance as a key step toward a career in **Data Engineering, Data Science or Machine Learning**.
+
+---
 
 ## 📬 Let’s Connect!
 
 - **Email**: agathe.pouillaude@efrei.net 📧
 - **LinkedIn**: [linkedin.com/in/agathe](https://linkedin.com/in/agathe)
-- **Twitter**: [@AgatheTweets](https://twitter.com/AgatheTweets)
 
 If you’re passionate about coding, data, or just want to chat about the latest trends in tech, feel free to reach out! 🙌
 
